@@ -44,13 +44,13 @@ python drive.py model.h5
 
 #### 3. Submission code is usable and readable
 
-The model.py file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
+The model.py file contains the code for training and saving the convolutional neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
 
 ### Model Architecture and Training Strategy
 
 #### 1. An appropriate model architecture has been employed
 
-My model consists of a convolution neural network that implements the architecture proposed by NVIDIA. 5 convolutional layers are used. The first three with a kernel of 5x5 (3), 2x2 stride and 24, 36 and 48 filters. The last two with a kernel of 3x3, non-strided and 64 filters (code lines 88-92).
+My model consists of a convolutional neural network that implements the architecture proposed by NVIDIA. 5 convolutional layers are used. The first three with a kernel of 5x5 (3), 2x2 stride and 24, 36 and 48 filters. The last two with a kernel of 3x3, non-strided and 64 filters (code lines 88-92).
 
 The model includes RELU layers to introduce nonlinearity and three fully-connected layers.
 

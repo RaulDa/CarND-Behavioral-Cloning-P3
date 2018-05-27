@@ -137,6 +137,8 @@ Epoch 5/6 --> loss: 0.0161 - val_loss: 0.0163
 
 Epoch 6/6 --> loss: 0.0144 - val_loss: 0.0158
 
- I used an adam optimizer so that manually training the learning rate wasn't necessary.
+I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
- After all these steps I finally achieved a model that makes the car run successfully both tracks with a speed of 10mph.
+[![Alt text for your video](https://i.ytimg.com/vi/QTId7ILCb34/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAjn8RpP9aKClgnhDUnoRVpU3J9dQ)](https://www.youtube.com/watch?v=QTId7ILCb34)
+ 
+

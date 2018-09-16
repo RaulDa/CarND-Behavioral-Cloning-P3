@@ -139,8 +139,5 @@ Epoch 6/6 --> loss: 0.0144 - val_loss: 0.0158
 
 I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-Finally, the car is able to drive on both tracks with a desirable speed. The following link includes a video corresponding to the track `2`:
-
-[![Alt text for your video](https://i.ytimg.com/vi/QTId7ILCb34/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAjn8RpP9aKClgnhDUnoRVpU3J9dQ)](https://www.youtube.com/watch?v=QTId7ILCb34)
- 
+Finally, the car is able to drive on both tracks with a desirable speed. The following [video](https://www.youtube.com/watch?v=QTId7ILCb34) shows the behavior for the track `2`.
 
